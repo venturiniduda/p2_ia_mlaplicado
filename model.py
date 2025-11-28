@@ -42,7 +42,7 @@ warnings.filterwarnings("ignore")
 # ==============================
 
 # Caminho do CSV (ajuste se necessário)
-DATA_PATH = "SINASC_2025.csv"
+DATA_PATH = "dados/SINASC_2025.csv"
 
 # Separador do arquivo
 SEP = ";"
